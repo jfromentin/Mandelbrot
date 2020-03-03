@@ -10,7 +10,7 @@ Command :
 
 * s : increade number of iterations 
 
-* + : zoom in
+* '+' : zoom in
 
-* - : zoom out
+* '-' : zoom out
 
