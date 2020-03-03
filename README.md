@@ -14,4 +14,4 @@ Command :
 
 * '-' : zoom out
 
-* mouse click : zoom on the pointed point
+* mouse click : center on the pointed point
